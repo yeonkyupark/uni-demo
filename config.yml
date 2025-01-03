@@ -1,0 +1,4 @@
+default:
+  db:
+    db_name: "db/penguins.db"
+    tbl_name: "penguins"
